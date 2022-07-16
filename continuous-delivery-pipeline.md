@@ -18,3 +18,5 @@
 ## Pre-production (PRE) and Production (PRD)
 
 * deployment of release candidate triggered by an authorized user using a "push-button" approach
+
+BDD apps not promoted beyond Regression (REG)
